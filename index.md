@@ -1,4 +1,4 @@
-# Privacy Policy for Word Search
+# Privacy Policy for Column Power Jump Game
 
 <b>Dawid Wnukowski</b> („us”, „we” or „our”) operates the mobile application (the „Service”).
 <br>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
